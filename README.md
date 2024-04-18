@@ -1,8 +1,9 @@
 # Instagram
 Instagram Automation Tests
 
-**Name: Ankita Patel(A00305054) - 
-      Vishwa Virani(A00297223) -
+**Name:**
+      **Ankita Patel(A00305054) 
+      Vishwa Virani(A00297223)
       Amritpal Singh(A00301070)**
 
 **Application:**
