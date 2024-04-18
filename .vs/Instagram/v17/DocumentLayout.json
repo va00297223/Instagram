@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAPD\\Modular Development\\Instagram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38800893-1C0B-4F58-964D-16F61F527ED3}|Instagram\\Instagram.csproj|d:\\mapd\\modular development\\instagram\\instagram\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38800893-1C0B-4F58-964D-16F61F527ED3}|Instagram\\Instagram.csproj|solutionrelative:instagram\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\MAPD\\Modular Development\\Instagram\\Instagram\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Instagram\\UnitTest1.cs",
+              "ToolTip": "D:\\MAPD\\Modular Development\\Instagram\\Instagram\\UnitTest1.cs",
+              "RelativeToolTip": "Instagram\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:32:25.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
