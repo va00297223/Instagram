@@ -1,52 +1,29 @@
 # Instagram
 Instagram Automation Tests
 
+**Application:**
+[Instagram](https://www.instagram.com/)
+
+**Description:**
+Instagram is a popular social media platform where users can share photos, videos, and stories with their followers. It also allows users to interact with posts through likes, comments, and direct messages.Testing the ability to create a new account.
+
 ## Group Members:
 
 - Ankita Patel (A00305054)
 - Vishwa Virani (A00297223)
 - Amritpal Singh (A00301070)
+  
+## Test Cases:
 
-**Application:**
-[Instagram](https://www.instagram.com/)
+Id | Name | Student ID | Test Case | Expected Result | Rationale | Technique
+--- | --- | --- | --- | --- | --- | ---
+1|Vishwa Virani|A00297223|Signup Submit Form|Successful SignUp|Testing the ability to create a new account.|Positive
+ | | | |If enter the wrong or invalid information|It will not proceed for further.|Testing the system's response to wrong or invalid information during submission.|Negative
+2|Ankita Patel|A00305054|Enter Invalid E-mail Address|Red Cross Symbol|Testing the validation of email addresses.|Error-guessing 
+ | | | |Enter Valid or E-mail Address|Right Tick Symbol|Testing Validation of Email Addresses.|Positive
+3|Amritpal Singh|A00301070|Enter Invalid Password|Red Cross Symbol|Testing Password Validation (less than 8 characters).|Error-guessing
+ | | | |Enter Valid Password|Right Tick Symbol|Testing Password Validation (at least 8 characters with letters and numbers).|Positive 
 
-**Description:**
-Instagram is a popular social media platform where users can share photos, videos, and stories with their followers. It also allows users to interact with posts through likes, comments, and direct messages.
+	
 
-**Test Cases:**
 
-Test Case 1: Verify Login Functionality
-
-**Description:** This test case verifies the login functionality of Instagram by logging in with valid credentials.
-
-**Steps:**
-  1. Launch the Instagram website.
-  2. Click on the "Log In" button.
-  3. Enter valid username and password.
-  4. Click on the "Log In" button.
-  5. Verify successful login.
-
-Test Case 2: Verify Post Upload Functionality
-
-**Description:** This test case verifies the post upload functionality of Instagram by uploading a photo with a caption.
-
-**Steps:**
-  1. Log in to Instagram.
-  2. Click on the "Add Post" button.
-  3. Select a photo to upload.
-  4. Add a caption to the photo.
-  5. Click on the "Post" button.
-  6. Verify that the post is successfully uploaded.
-
-Test Case 3: Verify Follow/Unfollow Functionality
-
-**Description:** This test case verifies the follow and unfollow functionality of Instagram by following and then unfollowing a user profile.
-
-**Steps:**
-  1. Log in to Instagram.
-  2. Search for a user profile.
-  3. Click on the "Follow" button.
-  4. Verify that the user is followed.
-  5. Navigate to the user's profile.
-  6. Click on the "Unfollow" button.
-  7. Verify that the user is unfollowed.
